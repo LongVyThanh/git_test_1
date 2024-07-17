@@ -8,5 +8,6 @@ namespace baitap
 {
     internal class C1
     {
+        Console.Write("");
     }
 }
