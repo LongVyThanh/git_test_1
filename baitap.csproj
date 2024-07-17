@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="C1.cs" />
     <Compile Include="Class.cs" />
+    <Compile Include="C1.cs" />
     <Compile Include="Customers.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="InputValues.cs" />
