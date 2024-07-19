@@ -11,5 +11,6 @@ namespace baitap
         public C1(){}
 
         private int ABC() { return 0; }
+        private int ABx() { return 0; }
     }
 }
