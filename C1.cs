@@ -13,5 +13,6 @@ namespace baitap
         private int ABC() { return 0; }
         private int ABx() { return 0; }
         private int ABw() { return 0; }
+        string b;
     }
 }
