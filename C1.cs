@@ -9,6 +9,8 @@ namespace baitap
     internal class C1
     {
         public C1(){}
+        public C1(int a){}
+
 
         private int ABC() { return 0; }
     }
